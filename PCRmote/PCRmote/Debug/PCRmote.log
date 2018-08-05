@@ -1,0 +1,5 @@
+﻿  PCRmoteDlg.cpp
+e:\pcrmote\pcrmote\pcrmote\pcrmotedlg.cpp(236): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\pcrmote\pcrmote\pcrmote\pcrmotedlg.cpp(254): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PCRmote.vcxproj -> E:\PCRmote\PCRmote\Debug\PCRmote.exe
+  PCRmote.vcxproj -> E:\PCRmote\PCRmote\Debug\PCRmote.pdb (Full PDB)
